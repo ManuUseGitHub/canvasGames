@@ -1,12 +1,12 @@
 import { useEffect } from "react";
-import { handler } from "./handleEffect";
+import { useEventHandler } from "./handleEffect";
 import { ApplicationContextType } from "../resources/types";
 import { onMouseDown } from "../business/interrractions/onMouseDown";
 import { getInterpolatedScaledPoint } from "../resources/mathsHelper";
 
 // Hook
 export const useMouseDown = (context: ApplicationContextType, windowRef: any) => {
-    useEffect(() => handler("mousedown", windowRef, (event: any) => {
+    useEventHandler("mousedown", windowRef, (event: any) => {
         if (event != null) {
 
             context.setMouseIsDown(true);
@@ -22,5 +22,5 @@ export const useMouseDown = (context: ApplicationContextType, windowRef: any) =>
 
             onMouseDown(p, context);
         }
-    }, null), [context.mouseIsDragging]);
+    }, [context.mouseIsDragging]);
 }

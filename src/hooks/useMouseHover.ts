@@ -1,11 +1,11 @@
 import { useEffect } from "react";
-import { handler } from "./handleEffect";
+import { useEventHandler } from "./handleEffect";
 import { ApplicationContextType } from "../resources/types";
 import { getInterpolatedScaledPoint } from "../resources/mathsHelper";
 import { onMouseHere } from "../business/interrractions/onMouseHere";
 
 export const useMouseHover = (context: ApplicationContextType, windowRef: any) => {
-    useEffect(() => handler("mousemove", windowRef, (event: any) => {
+    useEventHandler("mousemove", windowRef, (event: any) => {
         const scale = context.scale;
         if (event != null && scale) {
 
@@ -19,5 +19,5 @@ export const useMouseHover = (context: ApplicationContextType, windowRef: any) =
 
             onMouseHere(p, context.gamePieces, context)
         }
-    }));
+    });
 }
