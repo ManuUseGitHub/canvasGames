@@ -12,5 +12,5 @@ export const useEventHandler = (eventName: string, windowRef: any, cb: (ev: any)
         return () => {
             windowRef.current.removeEventListener(eventName, handle)
         };
-    }, [args]);
+    }, args);
 }

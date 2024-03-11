@@ -13,15 +13,16 @@ import { initializeState } from './resources/gameCreator';
 import { updatedCoords } from './business/coordinates';
 import { pushDebugMessage } from './resources/textHelper';
 import { GAME_STATE } from './resources/messageConstants';
+import { GameBoard } from './components/game/gameBoard';
+import store from './redux/store';
 
 const ApplicationContext = createContext<ApplicationContextType | null>(null);
 function App() {
 
-  const options = {}
-
   const [position, setPosition] = useState(getPoint());
 
   let context: ApplicationContextType = Object.assign(useHooks(), { position, setPosition })
+  const state = store.getState();
 
   useEffect(() => {
     context.setReservePiecesCoords(
@@ -59,6 +60,9 @@ function App() {
             moving: context.mouseIsMoving
           }
           , null, 2), language: "tsx"
+      },`redux :`,
+      {
+        codeBlock: JSON.stringify(state, null, 2), language: "tsx"
       },
       "reserve:",
       { codeBlock: JSON.stringify(context.pieceOfReserve, null, 2), language: "tsx" },
@@ -74,7 +78,7 @@ function App() {
     ],)
     //reserve: ${JSON.stringify(context.pieceOfReserve, null, 2)},
 
-  }, [context.coords, context.mouseIsMoving, context.mouseIsDown, context.timer])
+  }, [context.coords, context.mouseIsMoving, context.mouseIsDown, context.timer,state])
 
   useEffect(() => {
     setFoundPieceAt({ i: 1, j: 1 }, gamePieces, setSelectedGamePiece);
@@ -101,7 +105,8 @@ function App() {
   return (
     <ApplicationContext.Provider value={context} >
       <div className="App">
-        <Canvas draw={draw} options={options}></Canvas>
+        
+        <GameBoard></GameBoard>
         <Debugging></Debugging>
       </div>
     </ApplicationContext.Provider>

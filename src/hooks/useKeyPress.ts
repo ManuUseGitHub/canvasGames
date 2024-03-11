@@ -1,27 +1,28 @@
-import { useEffect } from "react";
-import { ApplicationContextType, Point } from "../resources/types";
-import { useEventHandler } from "./handleEffect";
+import { zoomIn, zoomOut } from "../redux/zoom/slice/zoomSlice";
 import { MINUS_KEY, PLUS_KEY } from "../resources/constantes";
-import { rescaledPoint, translatedPoint } from "../resources/mathsHelper";
+import { rescaledPoint } from "../resources/mathsHelper";
+import { ApplicationContextType } from "../resources/types";
+import { useEventHandler } from "./handleEffect";
 
-export const useKeyPress = (context: ApplicationContextType, windowRef: any) => {
-    useEventHandler("keydown", windowRef, (event: any) => {
+export const useKeyPress = (context: ApplicationContextType, canvasRef: any, dispatch: any) => {
+    useEventHandler("keydown", canvasRef, (event: any) => {
         if (event != null) {
-            switch (event.keyCode) {
-                case PLUS_KEY:
-                    context.setScale(context.scale + 0.1);
-                    reposition(context);
-                    break;
-                case MINUS_KEY:
-                    context.setScale(context.scale - 0.1);
-                    reposition(context);
-                    break;
-            }
+            reposition(dispatch, event.keyCode, context);
+            // TODO: frame up
+
             context.setFrames(0)
         }
     }, [context.scale]);
 }
 
-const reposition = (context: ApplicationContextType) => {
+const reposition = (dispatch: any, keyCode: number, context: ApplicationContextType) => {
+    switch (keyCode) {
+        case PLUS_KEY:
+            context.setScale(context.scale + 0.1);
+            dispatch(zoomIn()); break;
+        case MINUS_KEY:
+            context.setScale(context.scale - 0.1);
+            dispatch(zoomOut()); break;
+    }
     context.setPosition(rescaledPoint(context.translation, context));
 }

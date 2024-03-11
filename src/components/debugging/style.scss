@@ -10,10 +10,7 @@ $prefix : debugging-;
         left: 0;
         max-height: 100vh;
         overflow: auto;
-
-        &:hover {
-            opacity: 0.4;
-        }
+        pointer-events: none;
 
         p {
             color: hotpink;
@@ -22,8 +19,6 @@ $prefix : debugging-;
             margin: 0;
             overflow: hidden;
         }
-
-        opacity: 0.8;
 
         pre {
             margin: 0;
@@ -42,6 +37,11 @@ $prefix : debugging-;
             max-width: 500px; 
             background: rgb(45, 42, 85);
             transition: all ease-in-out 0.25s;
+            opacity: 0.9;
+
+            &.hovered{
+                opacity: 0.3;
+            }
         }
     }
 }

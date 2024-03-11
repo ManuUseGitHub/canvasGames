@@ -6,9 +6,10 @@ import { GamePiece, HighLightCode, ReserveSelect } from "../resources/types";
 export const getPoint = () => ({ "x": 0, "y": 0 });
 export const useHooks = () => {
     const [mouseInWindow, setMouseInWindow] = useState(false);
+    const [frameCount, setFrameCount] = useState(0);
     const [debug, setDebug] = useState<{ [x: string]: (string | HighLightCode)[] }>({});
     const [cell, setCell] = useState(DEFAULT_CELL);
-    const [scale, setScale] = useState(0.8);
+    const [scale, setScale] = useState(1);
     const [frames, setFrames] = useState(0);
     const [gameState, setGameState] = useState("0");
     const [reservePiecesCoords, setReservePiecesCoords] = useState<{ [x: string]: ReserveSelect[] }>({})
@@ -32,6 +33,7 @@ export const useHooks = () => {
     const [badDropMoves,setBadDropMoves] = useState<number[][]>([]);
 
     return {
+        frameCount, setFrameCount,
         badDropMoves,setBadDropMoves,
         pointClick, setPointClick,
         gamePieces, setGamePieces,

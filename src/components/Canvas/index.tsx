@@ -1,26 +1,24 @@
-import { useContext, useEffect, useRef } from "react";
-import useCanvas from "../../hooks/useCanvas";
+import { useContext } from "react";
 import { Design } from "./design";
-
+import { draw } from "../../Drawings/drawFunc";
 import { ApplicationContext } from "../../App"
 import { ApplicationContextType } from "../../resources/types";
-import { useMouseHover } from "../../hooks/useMouseHover";
-import { useMouseClick } from "../../hooks/useMouseClick";
-import { useWindowSize } from "../../hooks/useWindowSize";
-import { useMouseDown } from "../../hooks/useMouseDown";
-import { useMouseUp } from "../../hooks/useMouseUp";
 import { useMouseInWindow } from "../../hooks/useMouseInWindow";
+import { useCanvas } from "../../hooks/useCanvas";
+import { useAppSelector } from "../../redux/hooks";
+import { postdraw, predraw } from "./Aspect/fencingDraw";
 
-export const Canvas = ({ draw }: any) => {
+export const Canvas = (props: any) => {
 
 	const context = useContext(ApplicationContext) as ApplicationContextType;
 
-	const { translation } = context;
-	const canvasRef = useCanvas(draw, { translation });
+	const { draws } = props;
+	const p = useAppSelector(state => state.point).coords;
+
+	const options = { predraw, postdraw };
+	const canvasRef = useCanvas((ctx: any, frameCount: number) => draw(ctx, frameCount, p, draws), options)
 
 	useMouseInWindow(context);
-
-	//useMouseClick(context, window);
 
 	return <Design prefix="canvas" canvasRef={canvasRef} />;
 };

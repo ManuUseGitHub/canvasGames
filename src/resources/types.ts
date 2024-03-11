@@ -1,4 +1,5 @@
 import React, { Dispatch, SetStateAction } from "react";
+export type DrawCallBack = (ctx: any, frameCount: number) => void;
 
 export type Point = {
     x: number,
@@ -90,6 +91,8 @@ export type HighLightCode = {
 }
 
 export type ApplicationContextType = {
+    frameCount: number,
+    setFrameCount: React.Dispatch<React.SetStateAction<number>>,
     badDropMoves: number[][],
     setBadDropMoves: React.Dispatch<React.SetStateAction<number[][]>>,
     mouseInWindow: boolean,

@@ -1,27 +1,56 @@
+import { useContext, useEffect, useRef } from "react";
+import { ApplicationContextType, DrawCallBack } from "../resources/types";
+import { useBindEventListeners } from "./useBindEventListeners";
+import { ApplicationContext } from "../App";
 
-import { useRef, useEffect } from 'react'
+const SECOND_DIVISOR = 0.0524;
+const hookedDraw = (ctx: any, canvas: any, draw: () => void, options?: { predraw?: DrawCallBack, postdraw?: DrawCallBack }) => {
+    if (options?.predraw)
+        options.predraw(ctx, canvas);
 
-const useCanvas = (draw:any, options:any = {}) => {
+    draw();
 
-  const canvasRef = useRef(null);
-
-  useEffect(() => {
-    const canvas:any = canvasRef.current
-    const ctx = canvas.getContext(options.context || '2d')
-
-    let frameCount = 0
-    let animationFrameId:number;
-
-    const render = () => {
-      frameCount++
-      draw(ctx, frameCount)
-      animationFrameId = window.requestAnimationFrame(render)
-    }
-    render()
-    return () => {
-      window.cancelAnimationFrame(animationFrameId)
-    }
-  }, [draw])
-  return canvasRef
+    if (options?.postdraw)
+        options.postdraw(ctx, canvas);
 }
-export default useCanvas
+
+let sleepSetTimeout_ctrl: any;
+
+const sleep = (ms: number) => {
+    clearInterval(sleepSetTimeout_ctrl);
+    return new Promise(resolve => sleepSetTimeout_ctrl = setTimeout(resolve, ms));
+};
+
+export const useCanvas = (draw: DrawCallBack, options?: { predraw?: DrawCallBack, postdraw?: DrawCallBack }) => {
+    const canvasRef = useRef(null);
+
+    const { frameCount, setFrameCount } = useContext(ApplicationContext) as ApplicationContextType;
+    
+      useBindEventListeners(canvasRef);
+      
+    
+    useEffect(() => {
+        const canvas: any = canvasRef.current
+        const ctx = canvas.getContext('2d');
+
+        let framesAnimationId: number;
+        (async () => {
+            sleep(17).then(() => {
+                hookedDraw(ctx, canvas, () => {
+                    const render = () => {
+                        setFrameCount(frameCount + 1 * SECOND_DIVISOR);
+                        draw(ctx, frameCount)
+                        framesAnimationId = window.requestAnimationFrame(render)
+                    }
+                    render();
+                }, options)
+            });
+        })()
+
+        return () => {
+            window.cancelAnimationFrame(framesAnimationId)
+        }
+    }, [draw])
+
+    return canvasRef
+}

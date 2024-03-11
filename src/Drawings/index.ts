@@ -1,14 +1,10 @@
 import { resizeCanvasToDisplaySize } from "../CanvasProperties";
 import { getCell } from "../business/game";
-import { getPossibleMoves } from "../business/moves";
 import { packForGridDraw } from "../resources/builders";
-import { CELL_W, CELL_H, CELL_W_COUNT, CELL_H_COUNT, _π, BLOCKED_MOVE, UNDROPABLE_MOVE } from "../resources/constantes";
+import { BLOCKED_MOVE, CELL_H, CELL_H_COUNT, CELL_W, CELL_W_COUNT, UNDROPABLE_MOVE } from "../resources/constantes";
 import { gridCorner } from "../resources/mathsHelper";
-import { DROP_RESTRICTION } from "../resources/messageConstants";
-import { pushDebugMessage } from "../resources/textHelper";
-import { ApplicationContextType, GamePiece, PieceMove, Point } from "../resources/types";
-import { drawBordCells, drawReserve, drawSelectedCell, drawPieceMoves, drawParallelYLines, drawBigLines, drawStarsOnBoard, drawDropRestrictionCell } from "./board";
-import { initializeArrayWithValues } from "./common";
+import { ApplicationContextType, GamePiece, Point } from "../resources/types";
+import { drawBigLines, drawBordCells, drawDropRestrictionCell, drawParallelYLines, drawPieceMoves, drawReserve, drawSelectedCell, drawStarsOnBoard } from "./board";
 import { drawBundle, drawGamePieces, isSameAllyPiece } from "./pieces";
 
 export const clearView = (ctx: any) => {

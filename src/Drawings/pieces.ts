@@ -1,9 +1,9 @@
 
 import { packForGridDraw } from "../resources/builders";
-import { BLOCKED_MOVE, CELL_H, CELL_W, RESERVE_H, RESERVE_W, WHITE, _2π } from "../resources/constantes";
+import { BLOCKED_MOVE, RESERVE_H, WHITE, _2π } from "../resources/constantes";
 import { getSelectionImage, images } from "../resources/images";
 import { getCoordsOfReserve, getNewPointOfReservedPieces, reserveTranslations } from "../resources/mathsHelper";
-import { GamePiece, ApplicationContextType, TranslateTupples, Point, ReserveSelect } from "../resources/types";
+import { ApplicationContextType, GamePiece, Point, TranslateTupples } from "../resources/types";
 import { applyRotation, createReserve, transform } from "./common";
 import { pieceCoords } from "./coordinates";
 
