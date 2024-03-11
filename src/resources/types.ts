@@ -5,9 +5,16 @@ export type Point = {
     y: number
 }
 
+export type GostPoint = { x?: number, y?: number };
+
 export type BoundingBox = {
     p1: Point,
     p2: Point
+}
+
+export type Dimension = {
+    width: number,
+    height: number
 }
 
 export type ReserveSelect = {

@@ -47,3 +47,8 @@ export const MODES = {
 }
 
 export const INITIAL_MODE = MODES.VERSUS_MODE;
+
+export const DRAG_SENSITIVITY = 2;
+export const ZOOM_STEP = 0.25;
+
+export const SIXTYFPS_THROTTLING_DURATION = 17; // a bit less than 60 FPS
