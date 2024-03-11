@@ -1,0 +1,16 @@
+ID;English name;complement;Kanji1;Rōmaji1;Meaning;Kanji2;Rōmaji2;image;info;
+K;King ;reigning;王将;ōshō;king general;王;ō;https://static.wikia.nocookie.net/shogi/images/7/7d/Shogi_osho.png/revision/latest?cb=20090322110658;https://shogi.fandom.com/wiki/King;
+k;King ;challenging;玉将;gyokushō;jeweled general;玉;gyoku;https://static.wikia.nocookie.net/shogi/images/f/fe/Shogi_gyokusho.png/revision/latest?cb=20090322104515;https://shogi.fandom.com/wiki/King;
+r;Rook;-;飛車;hisha;flying chariot;飛;hi;https://static.wikia.nocookie.net/shogi/images/3/3f/Shogi_hisha.png/revision/latest?cb=20090322110718;https://shogi.fandom.com/wiki/Rook;
+R;Promoted rook ;Dragon;龍王;ryūō;dragon king;龍 or 竜*;ryū;https://static.wikia.nocookie.net/shogi/images/2/29/Shogi_ryuo.png/revision/latest?cb=20090322110738;-;
+b;Bishop;-;角行;kakugyō;angle mover;角;kaku;https://static.wikia.nocookie.net/shogi/images/0/0a/Shogi_kakugyo.png/revision/latest?cb=20090322111052;https://shogi.fandom.com/wiki/Bishop;
+B;Promoted bishop ;Horse;龍馬;ryūma or ryūme;dragon horse;馬;uma;https://static.wikia.nocookie.net/shogi/images/7/71/Shogi_ryuma.png/revision/latest?cb=20090322111453;-;
+g;Gold general ;Gold;金将;kinshō;gold general;金;kin;https://static.wikia.nocookie.net/shogi/images/b/bc/Shogi_kinsho.png/revision/latest?cb=20090322111139;-;
+s;Silver general ;Silver;銀将;ginshō;silver general;銀;gin;https://static.wikia.nocookie.net/shogi/images/b/bc/Shogi_ginsho.png/revision/latest?cb=20090322111435;-;
+S;Promoted silver;-;成銀;narigin;promoted silver;全;-;https://static.wikia.nocookie.net/shogi/images/5/50/Shogi_narigin.png/revision/latest?cb=20090322111216;-;
+n;Knight;-;桂馬;keima;cassia horse;桂;kei;https://static.wikia.nocookie.net/shogi/images/9/93/Shogi_keima.png/revision/latest?cb=20090322111117;https://shogi.fandom.com/wiki/Knight;
+N;Promoted knight;-;成桂;narikei;promoted cassia;圭 or 今;-;https://static.wikia.nocookie.net/shogi/images/5/53/Shogi_narikei.png/revision/latest?cb=20090322111234;-;
+l;Lance;-;香車;kyōsha;incense chariot;香;kyō;https://static.wikia.nocookie.net/shogi/images/3/3b/Shogi_kyosha.png/revision/latest?cb=20090322111156;https://shogi.fandom.com/wiki/Lance;
+L;Promoted lance;-;成香;narikyō;promoted incense;杏 or 仝;-;https://static.wikia.nocookie.net/shogi/images/c/c9/Shogi_narikyo.png/revision/latest?cb=20090322111253;-;
+p;Pawn;-;歩兵;fuhyō;foot soldier;歩;fu;https://static.wikia.nocookie.net/shogi/images/c/cd/Shogi_fuhyo.png/revision/latest?cb=20090322111408;https://shogi.fandom.com/wiki/Pawn;
+P;Promoted pawn ;tokin;と金;tokin;reaches gold;と or 个;to;https://static.wikia.nocookie.net/shogi/images/4/47/Shogi_tokin.png/revision/latest?cb=20090322111327;-;

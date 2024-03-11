@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105.55116mm"
+   height="137.60158mm"
+   viewBox="0 0 105.55116 137.60158"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4529">
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:0;"
+         offset="0"
+         id="stop4527" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.90382069"
+         id="stop4535" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4525" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4529"
+       id="radialGradient4531"
+       cx="122.05247"
+       cy="144.0728"
+       fx="122.05247"
+       fy="144.0728"
+       r="6.0678358"
+       gradientTransform="matrix(1.2191311,3.0529879e-4,-4.5186691e-4,1.8044016,-9.6519473,-115.1106)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4529"
+       id="radialGradient4531-8"
+       cx="122.05247"
+       cy="144.0728"
+       fx="122.05247"
+       fy="144.0728"
+       r="6.0678358"
+       gradientTransform="matrix(1.3293785,3.3207404e-4,-4.9272973e-4,1.9626509,30.349687,-138.37751)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4529"
+       id="radialGradient4531-8-3"
+       cx="122.05247"
+       cy="144.0728"
+       fx="122.05247"
+       fy="144.0728"
+       r="6.0678358"
+       gradientTransform="matrix(1.4404421,3.5967172e-4,-5.3389508e-4,2.1257609,-37.777777,-132.71787)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4529"
+       id="radialGradient4601"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4849832,3.7142568e-4,-5.5040408e-4,2.1952301,63.516391,-142.88623)"
+       cx="122.05247"
+       cy="144.0728"
+       fx="122.05247"
+       fy="144.0728"
+       r="6.0678358" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5840695"
+     inkscape:cx="279.8464"
+     inkscape:cy="132.98471"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="872"
+     inkscape:window-x="0"
+     inkscape:window-y="-872"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-98.898094,-134.51459)">
+    <g
+       id="g1321">
+      <path
+         id="path24"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.290603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 106.14371,135.92398 c -0.30303,-0.007 -2.46224,0.52668 -3.36122,0.83235 -0.54825,0.22001 -0.53973,0.14993 -0.6655,0.69955 l -1.85855,12.22601 c -0.0659,0.43371 -0.056,0.51907 0.32437,0.50089 h 5.5609 5.56089 c 0.38038,0.0181 0.3903,-0.0672 0.32437,-0.50089 l -1.85855,-12.22601 c -0.12575,-0.54962 -0.11724,-0.47954 -0.66549,-0.69955 -0.89898,-0.30567 -3.05818,-0.84009 -3.36122,-0.83235 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81202px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.145301"
+         x="102.01373"
+         y="146.19127"
+         id="text54"><tspan
+           sodipodi:role="line"
+           x="102.01373"
+           y="146.19127"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13688px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.145301"
+           id="tspan56">歩</tspan></text>
+    </g>
+    <g
+       id="g1311"
+       transform="translate(15.875)">
+      <path
+         id="path24-5"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.317022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.90761,134.67326 c -0.33058,-0.008 -2.68608,0.57456 -3.66678,0.90802 -0.59809,0.24001 -0.5888,0.16356 -0.726,0.76315 l -2.02751,13.33746 c -0.0719,0.47314 -0.0611,0.56626 0.35385,0.54643 h 6.06644 6.06643 c 0.41496,0.0197 0.42578,-0.0733 0.35386,-0.54643 l -2.02751,-13.33746 c -0.13718,-0.59959 -0.1279,-0.52314 -0.72599,-0.76315 -0.98071,-0.33346 -3.3362,-0.91646 -3.66679,-0.90802 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.15851"
+         x="141.22153"
+         y="141.55185"
+         id="text54-5"><tspan
+           sodipodi:role="line"
+           x="141.22153"
+           y="141.55185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.15851"
+           id="tspan56-8">香</tspan><tspan
+           sodipodi:role="line"
+           x="141.22153"
+           y="148.87964"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.15851"
+           id="tspan951">車</tspan></text>
+    </g>
+    <g
+       id="g1316">
+      <path
+         id="path930"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.290603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 122.01872,135.92398 c -0.30303,-0.007 -2.46224,0.52668 -3.36122,0.83235 -0.54825,0.22001 -0.53973,0.14993 -0.6655,0.69955 l -1.85855,12.22601 c -0.0659,0.43371 -0.056,0.51907 0.32437,0.50089 h 5.5609 5.56089 c 0.38038,0.0181 0.3903,-0.0672 0.32437,-0.50089 l -1.85855,-12.22601 c -0.12575,-0.54962 -0.11724,-0.47954 -0.66549,-0.69955 -0.89898,-0.30567 -3.05818,-0.84009 -3.36122,-0.83235 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81202px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#d40000;stroke-width:0.145301"
+         x="117.8887"
+         y="146.19127"
+         id="text934"><tspan
+           sodipodi:role="line"
+           x="117.8887"
+           y="146.19127"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13688px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;stroke-width:0.145301"
+           id="tspan932">と</tspan></text>
+    </g>
+    <g
+       id="g1305"
+       transform="translate(15.875)">
+      <path
+         id="path967"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.317022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.78262,134.67326 c -0.33058,-0.008 -2.68608,0.57456 -3.66678,0.90802 -0.59809,0.24001 -0.5888,0.16356 -0.726,0.76315 l -2.02751,13.33746 c -0.0719,0.47314 -0.0611,0.56626 0.35385,0.54643 h 6.06644 6.06643 c 0.41496,0.0197 0.42578,-0.0733 0.35386,-0.54643 l -2.02751,-13.33746 c -0.13718,-0.59959 -0.1279,-0.52314 -0.72599,-0.76315 -0.98071,-0.33346 -3.3362,-0.91646 -3.66679,-0.90802 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13688px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.15851"
+         x="156.73584"
+         y="145.54105"
+         id="text973"><tspan
+           sodipodi:role="line"
+           x="156.73584"
+           y="145.54105"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13688px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.15851"
+           id="tspan971">香</tspan></text>
+    </g>
+    <g
+       id="g1300"
+       transform="translate(31.750001)">
+      <path
+         id="path977"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.317022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 181.9493,134.67326 c -0.33058,-0.008 -2.68608,0.57456 -3.66678,0.90802 -0.59809,0.24001 -0.5888,0.16356 -0.726,0.76315 l -2.02751,13.33746 c -0.0719,0.47314 -0.0611,0.56626 0.35385,0.54643 h 6.06644 6.06643 c 0.41496,0.0197 0.42578,-0.0733 0.35386,-0.54643 l -2.02751,-13.33746 c -0.13718,-0.59959 -0.1279,-0.52314 -0.72599,-0.76315 -0.98071,-0.33346 -3.3362,-0.91646 -3.66679,-0.90802 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.15851"
+         x="178.26323"
+         y="141.55185"
+         id="text983"><tspan
+           sodipodi:role="line"
+           x="178.26323"
+           y="141.55185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.15851"
+           id="tspan981">桂</tspan><tspan
+           sodipodi:role="line"
+           x="178.26323"
+           y="148.87964"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.40833px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.15851"
+           id="tspan993">馬</tspan></text>
+    </g>
+    <g
+       id="g1294"
+       transform="translate(31.750001)">
+      <path
+         id="path985"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.317022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 197.82431,134.67326 c -0.33058,-0.008 -2.68608,0.57456 -3.66678,0.90802 -0.59809,0.24001 -0.5888,0.16356 -0.726,0.76315 l -2.02751,13.33746 c -0.0719,0.47314 -0.0611,0.56626 0.35385,0.54643 h 6.06644 6.06643 c 0.41496,0.0197 0.42578,-0.0733 0.35386,-0.54643 l -2.02751,-13.33746 c -0.13718,-0.59959 -0.1279,-0.52314 -0.72599,-0.76315 -0.98071,-0.33346 -3.3362,-0.91646 -3.66679,-0.90802 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13688px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.15851"
+         x="193.77754"
+         y="145.54105"
+         id="text989"><tspan
+           sodipodi:role="line"
+           x="193.77754"
+           y="145.54105"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13688px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.15851"
+           id="tspan987">桂</tspan></text>
+    </g>
+    <g
+       id="g1261">
+      <path
+         id="path24-5-6"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 106.20366,163.01962 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.196473,14.44891 c -0.07789,0.51257 -0.06619,0.61345 0.383337,0.59196 h 6.571976 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.171719"
+         x="102.2104"
+         y="170.47142"
+         id="text54-5-4"><tspan
+           sodipodi:role="line"
+           x="102.2104"
+           y="170.47142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan951-8">角</tspan><tspan
+           sodipodi:role="line"
+           x="102.2104"
+           y="178.40985"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1041">行</tspan></text>
+    </g>
+    <g
+       id="g1267">
+      <path
+         id="path1043"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 122.07867,163.01962 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.19648,14.44891 c -0.0779,0.51257 -0.0662,0.61345 0.38334,0.59196 h 6.57198 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;line-height:0.85;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+         x="117.98549"
+         y="170.6996"
+         id="text1049"><tspan
+           sodipodi:role="line"
+           x="117.98549"
+           y="170.6996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+           id="tspan1047">龍</tspan><tspan
+           sodipodi:role="line"
+           x="117.98549"
+           y="178.35779"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+           id="tspan1088">馬</tspan></text>
+    </g>
+    <g
+       id="g1273"
+       transform="translate(15.875)">
+      <path
+         id="path1070"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 143.24535,163.01962 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.19648,14.44891 c -0.0779,0.51257 -0.0662,0.61345 0.38334,0.59196 h 6.57198 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.171719"
+         x="139.25208"
+         y="170.47142"
+         id="text1076"><tspan
+           sodipodi:role="line"
+           x="139.25208"
+           y="170.47142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1074">飛</tspan><tspan
+           sodipodi:role="line"
+           x="139.25208"
+           y="178.40985"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1086">車</tspan></text>
+    </g>
+    <g
+       id="g1279"
+       transform="translate(15.875)">
+      <path
+         id="path1078"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 159.12036,163.01962 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.19648,14.44891 c -0.0779,0.51257 -0.0662,0.61345 0.38334,0.59196 h 6.57198 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;line-height:0.85;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+         x="155.02718"
+         y="171.01715"
+         id="text1049-1"><tspan
+           sodipodi:role="line"
+           x="155.02718"
+           y="171.01715"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+           id="tspan1088-8">龍</tspan><tspan
+           sodipodi:role="line"
+           x="155.02718"
+           y="178.67534"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+           id="tspan1120">王</tspan></text>
+    </g>
+    <g
+       id="g1284"
+       transform="translate(32.424811,-0.50558)"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         id="path1140"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.354007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 180.50769,163.02491 c -0.36915,-0.009 -2.99946,0.64159 -4.09457,1.01396 -0.66787,0.26801 -0.65749,0.18264 -0.8107,0.85218 l -2.26406,14.8935 c -0.0803,0.52834 -0.0682,0.63232 0.39513,0.61017 h 6.7742 6.77417 c 0.46338,0.0221 0.47547,-0.0818 0.39515,-0.61017 l -2.26405,-14.8935 c -0.15319,-0.66954 -0.14282,-0.58417 -0.81069,-0.85218 -1.09512,-0.37237 -3.72542,-1.02338 -4.09458,-1.01396 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.27263px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.177003"
+         x="175.05322"
+         y="175.9671"
+         id="text1146"><tspan
+           sodipodi:role="line"
+           x="175.05322"
+           y="175.9671"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9089px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.177003"
+           id="tspan1158">王</tspan></text>
+    </g>
+    <g
+       id="g1289"
+       transform="matrix(1.0307693,0,0,1.0307693,26.609699,-5.5162842)"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         id="path1148"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 196.16205,163.01962 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.19648,14.44891 c -0.0779,0.51257 -0.0662,0.61345 0.38334,0.59196 h 6.57198 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;line-height:0.85;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.171719"
+         x="190.73604"
+         y="175.4308"
+         id="text1154"><tspan
+           sodipodi:role="line"
+           x="190.73604"
+           y="175.4308"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#000000;fill-opacity:1;stroke-width:0.171719"
+           id="tspan1166">玉</tspan></text>
+    </g>
+    <g
+       id="g1255">
+      <path
+         id="path1198"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 106.20366,194.76964 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.196473,14.44891 c -0.07789,0.51257 -0.06619,0.61345 0.383337,0.59196 h 6.571976 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.171719"
+         x="102.2104"
+         y="202.22145"
+         id="text1204"><tspan
+           sodipodi:role="line"
+           x="102.2104"
+           y="202.22145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1202">銀</tspan><tspan
+           sodipodi:role="line"
+           x="102.2104"
+           y="210.15988"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1232">将</tspan></text>
+    </g>
+    <g
+       id="g1249">
+      <path
+         id="path1206"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 122.07867,194.76964 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.19648,14.44891 c -0.0779,0.51257 -0.0662,0.61345 0.38334,0.59196 h 6.57198 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;line-height:0.85;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+         x="116.91879"
+         y="207.32552"
+         id="text1212"><tspan
+           sodipodi:role="line"
+           x="116.91879"
+           y="207.32552"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#d40000;fill-opacity:1;stroke-width:0.171719"
+           id="tspan1210">全</tspan></text>
+    </g>
+    <g
+       id="g1244"
+       transform="translate(15.875)">
+      <path
+         id="path1214"
+         style="fill:#eebb77;fill-opacity:1;stroke:#deaa87;stroke-width:0.34344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 143.24535,194.76964 c -0.35813,-0.009 -2.90992,0.62244 -3.97234,0.98369 -0.64794,0.26001 -0.63787,0.17719 -0.7865,0.82675 l -2.19648,14.44891 c -0.0779,0.51257 -0.0662,0.61345 0.38334,0.59196 h 6.57198 6.57196 c 0.44954,0.0214 0.46127,-0.0794 0.38335,-0.59196 l -2.19647,-14.44891 c -0.14861,-0.64956 -0.13855,-0.56674 -0.78649,-0.82675 -1.06243,-0.36125 -3.61421,-0.99283 -3.97235,-0.98369 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;stroke-width:0.171719"
+         x="139.25208"
+         y="202.22145"
+         id="text1220"><tspan
+           sodipodi:role="line"
+           x="139.25208"
+           y="202.22145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1218">金</tspan><tspan
+           sodipodi:role="line"
+           x="139.25208"
+           y="210.15988"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.02569px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';stroke-width:0.171719"
+           id="tspan1238">将</tspan></text>
+    </g>
+    <g
+       id="g1284-0"
+       transform="translate(-61.76585,76.609711)"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         id="path1140-2"
+         style="fill:none;fill-opacity:1;stroke:#deaa87;stroke-width:0.950363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 180.5077,148.39221 c -0.99102,-0.0242 -8.05232,1.7224 -10.99222,2.72207 -1.79296,0.71949 -1.76509,0.49033 -2.17641,2.28777 l -6.07807,39.98288 c -0.21558,1.41836 -0.18309,1.69752 1.06077,1.63805 h 18.18593 18.18583 c 1.24399,0.0593 1.27645,-0.21961 1.06082,-1.63805 l -6.07804,-39.98288 c -0.41124,-1.79744 -0.3834,-1.56828 -2.17636,-2.28777 -2.93995,-0.99967 -10.0012,-2.74736 -10.99225,-2.72207 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.27263px;line-height:0.95;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';word-spacing:0px;fill:#dea986;fill-opacity:0.870588;stroke-width:0.177003"
+         x="171.21524"
+         y="169.98788"
+         id="text1146-4"><tspan
+           sodipodi:role="line"
+           x="171.21524"
+           y="169.98788"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.05px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#dea986;fill-opacity:0.870588;stroke-width:0.177003"
+           id="tspan1158-8">将</tspan><tspan
+           sodipodi:role="line"
+           x="171.21524"
+           y="188.08539"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.05px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET';fill:#dea986;fill-opacity:0.870588;stroke-width:0.177003"
+           id="tspan135">棋</tspan></text>
+    </g>
+    <path
+       id="path24-2"
+       style="fill:url(#radialGradient4531);fill-opacity:1;stroke:#eebb77;stroke-width:0.290603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 139.08092,135.92398 c -0.30303,-0.007 -2.46224,0.52668 -3.36122,0.83235 -0.54825,0.22001 -0.53973,0.14993 -0.6655,0.69955 l -1.85855,12.22601 c -0.0659,0.43371 -0.056,0.51907 0.32437,0.50089 h 5.56091 5.56089 c 0.38038,0.0181 0.39029,-0.0672 0.32436,-0.50089 l -1.85854,-12.22601 c -0.12575,-0.54962 -0.11724,-0.47954 -0.66549,-0.69955 -0.89898,-0.30567 -3.05819,-0.84009 -3.36123,-0.83235 z"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path24-2-7"
+       style="fill:url(#radialGradient4531-8);fill-opacity:1;stroke:#eebb77;stroke-width:0.316486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192.53263,134.67326 c -0.33043,-0.008 -2.6849,0.57287 -3.66518,0.90535 -0.59783,0.2393 -0.58854,0.16308 -0.72568,0.7609 l -2.02662,13.29825 c -0.0719,0.47175 -0.0611,0.5646 0.3537,0.54482 h 6.06379 6.06377 c 0.41478,0.0197 0.42558,-0.0731 0.35369,-0.54482 l -2.02661,-13.29825 c -0.13712,-0.59782 -0.12784,-0.5216 -0.72567,-0.7609 -0.98028,-0.33248 -3.33475,-0.91377 -3.66519,-0.90535 z"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path24-2-7-9"
+       style="fill:url(#radialGradient4531-8-3);fill-opacity:1;stroke:#eebb77;stroke-width:0.342858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.95482,163.02533 c -0.35803,-0.009 -2.90921,0.62048 -3.97139,0.98059 -0.64777,0.25919 -0.63771,0.17664 -0.7863,0.82414 l -2.19594,14.40343 c -0.0779,0.51095 -0.0662,0.61152 0.38325,0.5901 h 6.57039 6.57037 c 0.44944,0.0213 0.46114,-0.0792 0.38324,-0.5901 l -2.19592,-14.40343 c -0.14858,-0.6475 -0.13852,-0.56495 -0.7863,-0.82414 -1.06217,-0.36011 -3.61335,-0.98971 -3.9714,-0.98059 z"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       id="path4599"
+       style="fill:url(#radialGradient4601);fill-opacity:1;stroke:#eebb77;stroke-width:0.353761;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 244.68297,162.52176 c -0.3691,-0.009 -2.99916,0.64076 -4.09419,1.01264 -0.6678,0.26766 -0.65743,0.18241 -0.81061,0.85107 l -2.26384,14.87413 c -0.0803,0.52765 -0.0683,0.6315 0.3951,0.60938 h 6.77355 6.77354 c 0.46334,0.022 0.4754,-0.0818 0.39509,-0.60938 l -2.26382,-14.87413 c -0.15317,-0.66866 -0.1428,-0.58341 -0.81061,-0.85107 -1.09502,-0.37188 -3.72508,-1.02206 -4.09421,-1.01264 z"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+  </g>
+</svg>

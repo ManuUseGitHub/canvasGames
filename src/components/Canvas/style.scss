@@ -1,0 +1,18 @@
+$prefix : canvas-;
+
+.#{$prefix} {
+	@at-root #{&}feat {
+        /*
+            setup your style here for 
+			canvas-feat class elements and children!
+        */
+	}
+}
+
+body {
+    background: #cfb89a;
+}
+#canvas {
+    background: #fff;
+    margin: 20px;
+}

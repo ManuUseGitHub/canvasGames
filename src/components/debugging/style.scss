@@ -1,0 +1,47 @@
+$prefix : debugging-;
+
+.#{$prefix} {
+    @at-root #{&}feat {
+        transition: all ease-in-out 0.25s;
+        user-select: none;
+        /* Standard syntax */
+        position: absolute;
+        top: 0;
+        left: 0;
+        max-height: 100vh;
+        overflow: auto;
+
+        &:hover {
+            opacity: 0.4;
+        }
+
+        p {
+            color: hotpink;
+            padding: 5px;
+
+            margin: 0;
+            overflow: hidden;
+        }
+
+        opacity: 0.8;
+
+        pre {
+            margin: 0;
+            resize: both;
+            overflow: auto;
+            /* height: 70px; */
+            background: transparent !important;
+            padding: 15px;
+            max-width: 50vw;
+            word-wrap: break-word;
+            text-wrap: wrap;
+            border: 1px solid hotpink;
+        }
+
+        #debug-content{
+            max-width: 500px; 
+            background: rgb(45, 42, 85);
+            transition: all ease-in-out 0.25s;
+        }
+    }
+}
